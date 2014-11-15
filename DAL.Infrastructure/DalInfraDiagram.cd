@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dapper.AssemblyNeutralAttribute" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dapper.SqlMapper" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>woEgKEuSQAD4COTTpmRSPinAFFhGkAqBMwHDCouHoNA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperAsync.cs</FileName>
+      <NewMemberFileName>Core\Dapper\SqlMapper.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dapper.DynamicParameters" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACAAAAgABAAAAIAAAEAAAAEAiABAAABACBQAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dapper.DataTableHandler" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dapper.TableValuedParameter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABABACAAAAAAAAAAAAAAQAAAQAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dapper.DbString" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAEAAABCAAAgAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dapper.FeatureSupport" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACABAAAAAAAAgAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dapper.SimpleMemberMap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAggAAAAAAIAAAAABAAAAEAAAQAAAAAAAAAQAAgAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dapper.DefaultTypeMap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAAAAAEAQAAACAUAAAAAAAAAAAACAAAAAQAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dapper.CustomPropertyTypeMap" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAgAAAAAQAAAAAEAAAAAAAAAAAACAAAAAQAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dapper.WrappedReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIgIAAFAAAAhAwAAEBBSBAAAgAAAgwACJQBAAAUAFU=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Dapper.ExplicitConstructorAttribute" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dapper.Contrib.Extensions.SqlMapperExtensions" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAwEAACAAAAAhgACAAAABAAAEEAAgAAQEAIBAAVIA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dapper.Contrib.Extensions.TableAttribute" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dapper.Contrib.Extensions.KeyAttribute" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dapper.Contrib.Extensions.WriteAttribute" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dapper.Contrib.Extensions.ComputedAttribute" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlServerAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperExtensions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PostgresAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperExtensions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SQLiteAdapter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperExtensions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DAL.Infrastructure.Core.DbManager">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKASCABZKAAAAQIAAAAAAQAAAABACAAAAAAAgCALCA=</HashCode>
+      <FileName>Core\Dapper\DbManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="Dapper.CommandDefinition" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAJAACBIAAAAaAAAAgAIAAAAiAAAAAAIAwAACAgCY=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Dapper.IWrappedDataReader" Collapsed="true">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ISqlAdapter" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Dapper\SqlMapperExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Dapper.CommandFlags" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEAAAI=</HashCode>
+      <FileName>Core\Dapper\SqlMapper.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

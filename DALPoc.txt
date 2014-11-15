@@ -1,0 +1,8 @@
+Objective of this Poc
+
+1- Defining a infrastructure which can deal with different databases.
+2- Every entity will be decorated with some attribute which will tell that to which database it should be
+targetted.
+3- bussiness logic layer will not know about any persistance logic.
+4- Base Repository will incoke the specific repository on the basis of the attributes of the entity.
+5- infrasture for the dapper queries which will be in xml or some config.  ..... it will be challenging and important as i want to build a generic infra.
